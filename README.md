@@ -9,6 +9,12 @@
 
 </br></br>
 
+
+## My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=F-Jackson&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</br></br>
+
 ## Most Used Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
